@@ -7,5 +7,5 @@ def get_bot() -> Bot:
 
 def bot_def():
     global bot
-    bot = Bot('7026029123:AAEfdoqqZNT9uchjiK4dQ1PbQPLqoorbAvo')
+    bot = Bot('6990640190:AAGuhlPtMP5q3BH2MPyTNdYUCEtabRwKsso')
 #ПИТОН ХУЙНЯ
